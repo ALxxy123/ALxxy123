@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ahmad 👋 \
 
-<!--
-**ALxxy123/ALxxy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full‑Stack Developer, Android application developer and UI/UX designer based in Makkah, Saudi Arabia. I love building clean, accessible applications that solve real problems.
 
-Here are some ideas to get you started:
+## 🛠 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[netwatch-bash](https://github.com/ALxxy123/netwatch-bash)** – A Bash script for monitoring daily internet usage on WSL/Linux using `vnstat` and generating clean reports.
+- **[movies-dataset](https://github.com/ALxxy123/movies-dataset)** – Streamlit app to explore movie data from TMDB using Python.
+- **[xo](https://github.com/ALxxy123/xo)** – Web‑based Tic‑Tac‑Toe game built with HTML, CSS and JavaScript.
+
+## ⚙️ Skills & Tools
+
+- **Languages:** JavaScript/TypeScript, Python, Bash, HTML/CSS
+- **Frameworks & Libraries:** Streamlit, Node.js, React (learning), Express
+- **Tools:** Git & GitHub, Linux/WSL, VS Code, Figma
+
+## 📧 Get in touch
+
+Feel free to reach out to discuss projects, collaboration or just say hi!
+
