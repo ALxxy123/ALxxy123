@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
   <h1>👋 Ahmed Mubaraki</h1>
   <h2>🚀 Software Engineer | Founder & CEO @ ETRA</h2>
