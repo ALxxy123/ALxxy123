@@ -1,236 +1,68 @@
+<!-- Profile README for github.com/ALxxy123 -->
 
 <div align="center">
-  <h1>👋 Ahmed Mubaraki</h1>
-  <h2>🚀 Software Engineer | Founder & CEO @ ETRA</h2>
-  <h3>💡 Full-Stack Development Expert | Information Security | Artificial Intelligence</h3>
+  <img src="./assets/profile-hero.svg" alt="Ahmad Mubaraki — Software Engineer, Product Builder, and Founder of ETRA" width="100%" />
+
+  <p>
+    <a href="https://ahmedmobarki.me"><strong>Portfolio</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://www.linkedin.com/in/ahmed-mubarki-7874232b8/">LinkedIn</a>
+    &nbsp; · &nbsp;
+    <a href="https://x.com/ahmdalnt98">X / Twitter</a>
+    &nbsp; · &nbsp;
+    <a href="https://etra.sa">ETRA</a>
+  </p>
 </div>
 
----
+### About me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mubarki-7874232b8/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge&logoColor=white" height="35" />
-  </a>
-  <a href="https://x.com/ahmdalnt98" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge&logoColor=white" height="35" />
-  </a>
-  <a href="https://v0-profile-ahmed.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&style=for-the-badge&logoColor=white" height="35" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=966532892984&text=السلام+عليكم+ورحمة+الله+وبركاته&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&style=for-the-badge&logoColor=white" height="35" />
-  </a>
-</div>
+I'm a **software engineer and product builder** based in Saudi Arabia. I work across architecture, full-stack and mobile development, AI integration, and the infrastructure needed to take an idea from prototype to a product people can actually use.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ALxxy123.ALxxy123" />
-</div>
+I'm also the **Founder & CEO of [ETRA](https://etra.sa)**, where I lead the development of technology-driven products and learning experiences. My work combines hands-on engineering, product decisions, and technical leadership.
 
----
+> I care about what happens *after* the code works: maintainability, security, performance, and the ability to keep shipping.
 
-## 🎯 Professional Summary
+### Selected work
 
-```typescript
-const Ahmed = {
-  name: "Ahmed Mubaraki",
-  role: "Software Engineer & Technology Entrepreneur",
-  company: "ETRA (Founder & CEO)",
-  location: "Saudi Arabia 🇸🇦",
-  education: "IT Engineering - University of Tabuk",
-  
-  expertise: [
-    "Full-Stack Development",
-    "Advanced Mobile Applications",
-    "AI-Powered Business Solutions", 
-    "Information Security & DevSecOps",
-    "System Tools & Automation",
-    "Technical Leadership & Team Management"
-  ],
-  
-  philosophy: "Transform complex problems into elegant software solutions",
-  mission: "Empowering businesses through intelligent technology"
-};
-```
+| Project | What I built / work on | Focus |
+| :--- | :--- | :--- |
+| **[ETRA Platform](https://etra.sa)** | A live platform supporting technical learning programs, subscriptions, and operational workflows. The application source is private. | Product engineering · Web · Backend |
+| **[Satr](https://github.com/ALxxy123/Satr)** | A local-first TypeScript SDK and CLI that detects, redacts, and blocks sensitive data before it reaches AI services. **Beta / open source.** | TypeScript · AI security · Developer tools |
+| **[ETRA Creators Portal](https://github.com/ALxxy123/etra-creators-portal)** | An Arabic-first application and review portal with submission tracking, CV uploads, and an admin dashboard. | Next.js · PostgreSQL · Supabase |
+| **[code-scan-sec](https://github.com/ALxxy123/code-scan-sec)** | A security scanning tool covering secrets detection, repository scanning, and vulnerability checks. | Python · AppSec · Automation |
 
----
+### Engineering toolkit
 
-## 🏢 ETRA - Vision. Intelligence. Future.
+| | Technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript · JavaScript · React · Next.js · Vue.js |
+| **Backend & APIs** | Node.js · NestJS · Laravel · REST APIs |
+| **Mobile** | Flutter · Dart · Kotlin |
+| **Data** | PostgreSQL · MySQL · MongoDB · Redis |
+| **AI & automation** | Python · LLM integrations · Developer tooling |
+| **Infrastructure** | Docker · Linux · Cloudflare · GitHub Actions |
 
-**Leading a next-generation technology platform specializing in:**
+### What I focus on
 
-🎯 **Technical Training & Coaching** - Preparing developers for industry success  
-💼 **Digital Notes Marketplace** - Knowledge monetization platform  
-🛠️ **Advanced Workshops** - Practical hands-on training programs  
-☁️ **SaaS Platform Development** - Scalable cloud solutions  
-🤝 **Talent Development** - Bridging the gap between education and industry  
+- **Architecture that lasts** — practical system design, clear boundaries, and long-term maintainability.
+- **Product-minded development** — balancing user experience, delivery speed, security, and cost.
+- **Shipping and operating** — from implementation and testing to deployment and real-world iteration.
 
-**Team Leadership:** Managing 20+ technical professionals across multiple domains
+### Building at ETRA
 
----
+Beyond the code, I'm building an ecosystem around technical enablement and digital products:
 
-## 💻 Technical Expertise
-
-### 🌐 **Full-Stack Development**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs" height="50"/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,mongodb,redis" height="50"/>
-</div>
-
-**Backend Architecture:** Laravel, Node.js, RESTful APIs, Microservices  
-**Frontend Engineering:** React, Next.js, Vue.js, TypeScript, Responsive Design  
-**Database Systems:** MySQL, PostgreSQL, MongoDB, Redis, Query Optimization  
-
-### 📱 **Mobile Development**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,dart" height="50"/>
-</div>
-
-**Cross-Platform:** Flutter with advanced state management and native integrations  
-**Android Native:** Kotlin, Java, Android SDK, Material Design implementation  
-**Architecture Patterns:** MVVM, Clean Architecture, Dependency Injection  
-
-### 🤖 **AI & Machine Learning**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="50"/>
-</div>
-
-**AI Applications:** Recommendation Systems, Financial Analysis Tools, Intelligent Assistants  
-**Technologies:** TensorFlow, Scikit-learn, Natural Language Processing  
-**Integration:** AI-powered business automation and decision support systems  
-
-### 🔐 **DevSecOps & Security**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github" height="50"/>
-</div>
-
-**Security Tools:** Custom vulnerability scanners, automated secret detection  
-**System Administration:** Linux/Unix systems, WSL, network monitoring  
-**CI/CD:** GitHub Actions, automated testing, deployment pipelines  
-**Infrastructure:** Docker containerization, cloud deployment strategies  
-
----
-
-## 🛠️ Featured Projects & Innovations
-
-### 🛡️ **Security Scan Tool** - [code-scan-sec](https://github.com/ALxxy123/code-scan-sec)
-Enterprise-grade DevSecOps solution for automated secrets detection
-- **Impact:** Prevents security breaches in development workflows
-- **Tech Stack:** Bash, Regex Pattern Matching, CI/CD Integration
-- **Features:** Multi-format reporting, Slack notifications, Git hooks
-- **Deployment:** Docker support, GitHub Actions integration
-
-
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMubarki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMubarki&theme=tokyonight" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMubarki&layout=compact&theme=tokyonight&langs_count=10" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedMubarki&theme=tokyonight" height="165"/>
-</div>
-
----
-
-## 🏆 Professional Achievements
-
-**🚀 Entrepreneurship**
-- Founded and scaled ETRA to 20+ team members
-- Developed multiple revenue-generating SaaS products
-- Created comprehensive tech education programs
-
-**💡 Technical Innovation**
-- Built enterprise-level security scanning tools
-- Architected scalable full-stack applications
-- Developed AI-powered business automation systems
-
-**👥 Leadership & Mentorship**
-- Managed cross-functional development teams
-- Conducted advanced technical workshops
-- Mentored junior developers and students
-
-**🔧 Open Source Contributions**
-- Published production-ready developer tools
-- Contributed to DevSecOps community
-- Shared knowledge through technical documentation
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-
-| **Software Architecture** | **Team Leadership** | **Business Strategy** |
-|:------------------------:|:------------------:|:--------------------:|
-| Microservices Design | Agile Methodologies | Product Development |
-| System Integration | Technical Mentoring | Market Analysis |
-| Performance Optimization | Project Management | Growth Strategy |
-| Security Implementation | Cross-team Collaboration | Technology Roadmap |
-
-</div>
-
----
-
-## 📚 Continuous Learning & Development
-
-**Currently Mastering:**
-- Advanced Kotlin for enterprise Android development
-- Data Science with Python for business intelligence
-- Operating Systems internals and kernel development
-- Cloud-native architecture patterns
-
-**Philosophy:** *"Stay curious, code with purpose, secure everything, and empower others to achieve their technical potential."*
-
----
-
-## 📞 Professional Network & Contact
-
-<div align="center">
-  <h3>🤝 Let's Connect & Collaborate!</h3>
-</div>
-
-**💼 Business Inquiries:** [LinkedIn](https://www.linkedin.com/in/ahmed-mubarki-7874232b8/) | [Personal Website](https://v0-profile-ahmed.vercel.app/)  
-**💬 Quick Chat:** [WhatsApp](https://api.whatsapp.com/send/?phone=966532892984&text=السلام+عليكم+ورحمة+الله+وبركاته) | [Twitter](https://x.com/ahmdalnt98)  
-
-**🚀 Available for collaboration on:**
-- **Technical Collaboration** - Open to innovative projects and partnerships
-- **Mentorship** - Available for aspiring developers and entrepreneurs
-- **Business Consulting** - ETRA services and consultations
-- **Speaking Engagements** - Technology conferences and educational institutions
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/ALxxy123/code-scan-sec">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALxxy123&repo=code-scan-sec&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ALxxy123/xo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALxxy123&repo=xo&theme=tokyonight" />
-  </a>
-</div>  
+**[ETRA](https://etra.sa)** — technical education, practical bootcamps, and learning experiences.  
+**[ETRA Tech](https://etratechs.com/)** — technology solutions and product development for businesses.
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedMubarki/AhmedMubarki/output/snake.svg" alt="Contribution Snake Animation"/>
-</div>
-
----
-
-<div align="center">
-  <h3>💫 "Building the future, one elegant solution at a time" 💫</h3>
-  <img src="https://profile-counter.glitch.me/ALxxy123/count.svg?" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <strong>Have a product to build or a technical problem worth solving?</strong>
+  <p>
+    <a href="https://ahmedmobarki.me">Explore my work</a>
+    &nbsp; · &nbsp;
+    <a href="https://www.linkedin.com/in/ahmed-mubarki-7874232b8/">Let's connect</a>
+  </p>
+  <sub>Made to reflect the work — not just the stack.</sub>
 </div>
